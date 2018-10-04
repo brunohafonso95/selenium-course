@@ -19,7 +19,6 @@ public class informacoesUsuarioTest {
         System.setProperty("webdriver.chrome.driver", "C:/Users/bhenriquea/Desktop/webdriverjava/drivers/chromedriver.exe");
         driver = new ChromeDriver();
         driver.get("https://www.google.com.br");
-        driver.manage().ma
     }
 
     @After
