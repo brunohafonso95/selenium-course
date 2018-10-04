@@ -1,11 +1,7 @@
-parameters:
-  name: 'teste de pipeline'
+jobs:
+- job: 'teste'
   pool: 
     vmImage: 'Ubuntu 16.04'
-
-jobs:
-- job: ${{ parameters.name }}
-  pool: ${{ parameters.pool }}
   steps:
   - script: mvn test
   - script: mvn clean package
