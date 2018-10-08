@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: tests.removeUserPhoneTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.098 sec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.865 sec

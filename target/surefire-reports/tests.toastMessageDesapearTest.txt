@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: tests.toastMessageDesapearTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.975 sec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.331 sec

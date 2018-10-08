@@ -1,2 +1,2 @@
-testAddUserPhone,type,contact,expectedMessage,Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms)
-"",phone,+55(11)12345-6789,Your contact has been added!,3244.0,3244.0,3244.0,3244.0,3244.0
+testAddUserPhone,type,contact,expectedMessage,Duration(ms)
+"",phone,+55(11)12345-6789,Your contact has been added!,2944.0

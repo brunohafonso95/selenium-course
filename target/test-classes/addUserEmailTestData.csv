@@ -1,2 +1,2 @@
-testAddUserEmail,type,contact,expectedMessage,Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms)
-"",email,teste@teste.com,Your contact has been added!,5659.0,5659.0,5659.0,5659.0,5659.0,5659.0,5659.0,5659.0,5659.0,5659.0,5659.0,5659.0,5659.0,5659.0,5659.0,5659.0,5659.0
+testAddUserEmail,type,contact,expectedMessage,Duration(ms)
+"",email,teste@teste.com,Your contact has been added!,2752.0

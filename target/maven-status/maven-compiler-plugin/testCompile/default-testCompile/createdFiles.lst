@@ -1,0 +1,7 @@
+tests\toastMessageDesapearTest.class
+tests\removeUserPhoneTest.class
+tests\loginTest.class
+pageObject\TaskitPage.class
+tests\addUserEmailTest.class
+pageObject\BasePage.class
+tests\addUserPhoneTest.class

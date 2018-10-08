@@ -19,6 +19,9 @@ import pageObject.TaskitPage;
 public class addUserEmailTest {
     protected WebDriver driver;
     protected TaskitPage taskit;
+    public static final String USERNAME = "brunohenriqueafo1";
+    public static final String AUTOMATE_KEY = "Yb7bm9eNhDx1MEdC2HxQ";
+    public static final String URL = "https://" + USERNAME + ":" + AUTOMATE_KEY + "@hub-cloud.browserstack.com/wd/hub";
 
     @Rule
     public TestName test = new TestName();
