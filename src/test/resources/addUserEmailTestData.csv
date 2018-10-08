@@ -1,0 +1,3 @@
+testAddUserEmail,type,contact,expectedMessage
+                ,email,teste@teste.com,Your contact has been added!
+

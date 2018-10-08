@@ -1,8 +1,0 @@
-jobs:
-- job: 'teste'
-  pool: 
-    vmImage: 'Ubuntu 16.04'
-  steps:
-  - script: mvn test
-  - script: mvn clean package
-  - script: npm install -g lighthouse
